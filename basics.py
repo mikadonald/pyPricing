@@ -22,7 +22,7 @@ def random_walk(steps):
     	return routine
 
 
-def brownian_motion(steps, dt):
+def brownian_motion(steps, dt, delta):
         step = 0
         routine = []
         location = 0
