@@ -1,4 +1,5 @@
-class Mammals:
+class bs_european_call:
+	
     def __init__(self):
         ''' Constructor for this class. '''
         # Create some member animals
